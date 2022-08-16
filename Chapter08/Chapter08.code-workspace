@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "WorkingWithCollections"
+		},
+		{
+			"path": "WorkingWithNumbers"
+		},
+		{
+			"path": "WorkingWithText"
+		},
+		{
+			"path": "WorkingWithTime"
+		},
+		{
+			"path": "WorkingWithRegularExpressions"
+		},
+		{
+			"path": "WorkingWithRanges"
+		},
+		{
+			"path": "WorkingWithNetworkResources"
+		},
+		{
+			"path": "WorkingWithReflection"
+		},
+		{
+			"path": "WorkingWithImages"
+		},
+		{
+			"path": "Internationalization"
+		}
+	]
+}

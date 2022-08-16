@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "AssembliesAndNamespaces"
+		},
+		{
+			"path": "SharedLibrary"
+		},
+		{
+			"path": "ControlSDK"
+		},
+		{
+			"path": "UsingPreviewFeatures"
+		},
+		{
+			"path": "DotNetEverywhere"
+		}
+	]
+}

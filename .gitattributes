@@ -1,0 +1,21 @@
+# Auto detect text files and perform LF normalization
+*          text=auto
+
+*.cs       text diff=csharp
+*.cshtml   text diff=html
+*.csx      text diff=csharp
+*.sln      text eol=crlf
+*.csproj   text eol=crlf
+
+
+# Ignore Jupyter Notebooks
+# *.ipynb linguist-documentation
+# *.dib linguist-documentation
+
+# Make Jupyter Notebooks appear as CSharp code
+# *.ipynb linguist-language=csharp
+# *.dib linguist-language=csharp
+
+# Jupyter notebook as text
+ *.ipynb  text
+ *.dib    text
